@@ -1,0 +1,5 @@
+data/*
+!data/ILSVRC2012_mapping.txt
+!data/ILSVRC2012_validation_ground_truth.txt
+
+__pycache__
